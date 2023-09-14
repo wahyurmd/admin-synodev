@@ -236,7 +236,7 @@
                         <div class="col">
                             <div class="form-group">
                                 <label class="form-label">Description</label>
-                                <textarea class="form-control" name="full_desc" rows="3">{{ $data->desc }}</textarea>
+                                <textarea class="form-control" name="desc" rows="3">{{ $data->desc }}</textarea>
                             </div>
                         </div>
                         <div class="col">
